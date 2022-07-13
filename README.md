@@ -30,7 +30,7 @@ The complete self-cntained python code is available in the [SOCR_3D_ZNET_python_
 Team
 ====
 
-[SOCR Team](http://www.socr.umich.edu/people/), Mohammad Ashraf Ottom, Hanif Abdul Rahman, Iyad M. Alazzam, and [Ivo D. Dinov](http://umich.edu/~dinov), Mark Bobrovnikov, and others.
+[SOCR Team](http://www.socr.umich.edu/people/), Mohammad Ashraf Ottom, Hanif Abdul Rahman, Iyad M. Alazzam, and [Ivo D. Dinov](https://umich.edu/~dinov), and others.
 
 Acknowledgments
 ===============
